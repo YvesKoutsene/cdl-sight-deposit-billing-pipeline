@@ -1,0 +1,18 @@
+# Ignorer les dossiers de données
+data/raw/*
+data/processed/*
+
+# Ignorer tous les fichiers CSV
+*.csv
+
+# Exceptions
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Ignorer les fichiers temporaires Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorer les fichiers de logs
+*.log
