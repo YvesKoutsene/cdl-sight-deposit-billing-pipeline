@@ -11,7 +11,18 @@ L'objectif est de démontrer une maîtrise technique complète appliquée à des
 - **Intérêts versés (Expense) :** ~8,75 M€.
 - **Nombre de clients Corporate :** Portefeuille diversifié avec solde moyen de 900k€.
 
-## Stack Technique
+## 📊 Aperçu du Dashboard Power BI
+
+### 1. Vue Executive (Profitabilité Globale)
+![Vue Executive](docs/Images/Vue%20Executive.png)
+
+### 2. Analyse Clients & Segmentation
+![Analyse Clients](docs/Images/Analyse%20Clients.png)
+
+### 3. Suivi Temporel des Flux
+![Analyse Temporelle](docs/Images/Analyse%20Temporelle.png)
+
+## 🛠️ Stack Technique
 - **Python (Pandas)** : ETL, échantillonnage temporel et tests de non-régression.
 - **SQL (DuckDB)** : Moteur de calcul financier haute performance (Base ACT/360).
 - **Power BI** : Dashboard décisionnel multi-pages (Vue Executive, Analyse Clients, Audit).
