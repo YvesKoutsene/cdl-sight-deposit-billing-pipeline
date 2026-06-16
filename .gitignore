@@ -4,6 +4,7 @@ data/processed/*
 
 # Ignorer tous les fichiers CSV
 *.csv
+!data/processed/cib_final_results.csv
 
 # Exceptions
 !data/raw/.gitkeep
