@@ -22,6 +22,9 @@ L'objectif est de démontrer une maîtrise technique complète appliquée à des
 ### 3. Suivi Temporel des Flux
 ![Analyse Temporelle](docs/Images/Analyse%20Temporelle.png)
 
+### 4. Matrice de Détails
+![Analyse Temporelle](docs/Images/Matrice%20de%20Détails.png)
+
 ## Stack Technique
 - **Python (Pandas)** : ETL, échantillonnage temporel et tests de non-régression.
 - **SQL (DuckDB)** : Moteur de calcul financier haute performance (Base ACT/360).
