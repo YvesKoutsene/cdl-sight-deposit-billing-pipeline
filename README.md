@@ -27,4 +27,4 @@ L'objectif est de démontrer une maîtrise technique complète appliquée à des
 Le pipeline inclut une suite de tests automatisés (`scripts/03_data_quality_tests.py`) garantissant l'exactitude des calculs financiers avant l'importation dans Power BI.
 
 ---
-*Projet réalisé pour la préparation à l'alternance Développeur Business Reporting - BNP Paribas CIB.*
+*Projet réalisé pour la préparation à l'alternance Développeur Business Reporting*
