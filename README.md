@@ -3,7 +3,7 @@
 ## Présentation du Projet
 Ce projet simule un moteur de **Billing (facturation)** et de **Calcul d'Intérêts sur Comptes à Vue (Sight Deposits)** au sein d'une banque de financement et d'investissement (CIB). 
 
-L'objectif est de démontrer une maîtrise technique complète appliquée à des problématiques métier réelles de gestion de flux bancaires Corporate chez **BNP Paribas**.
+L'objectif est de démontrer une maîtrise technique complète appliquée à des problématiques métier réelles de gestion de flux bancaires Corporate.
 
 ## Résultats du Prototype (Janvier 2026)
 - **Volume traité :** ~6,3 Millions de transactions analysées.
